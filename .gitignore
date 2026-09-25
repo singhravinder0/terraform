@@ -1,7 +1,7 @@
 
 .terraform/
 *.tfvars
-backend.tfvars
+backend.tf
 .terraform.lock.hcl
 
 test.txt
